@@ -1,0 +1,11 @@
+service
+state
+dbytes
+sttl
+dttl
+sload
+dloss
+dinpkt
+swin
+dmean
+ct_srv_dst
